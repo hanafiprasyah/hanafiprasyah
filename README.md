@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MUHAMMAD HANAFI PRASYAH
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Mobile App Developer
 - 📫 How to reach me on Gmail : prasyah1998@gmail.com and IG : @prasyaah_
 
