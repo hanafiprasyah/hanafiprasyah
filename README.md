@@ -1,4 +1,3 @@
-- 👋 Hi, I’m MUHAMMAD HANAFI PRASYAH
 <h1 align="center">Hi 👋, I'm Prasyah</h1>
 <h3 align="center">A passionate full stack engineer from Indonesia!</h3>
 
